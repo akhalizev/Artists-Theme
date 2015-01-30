@@ -4,14 +4,14 @@ animation: "bounceOut"
 
 # Images
 
-logo: "logo.svg"
-hero: "hero-bg.jpg"
-avatar: "travitar.jpg"
+logo: "Man-9-.svg"
+hero: "header-img-6.jpg"
+avatar: "face-2.jpg"
 
 # Colors
 
-accent: "#c99065"
-accent-light: "#e1c184"
+accent: "#3b81a7"  #"#c99065"
+accent-light: "#3b81ff"
 bgcolor: "#e5eaee"
 
 documentBackgroundColor: "#fff"
