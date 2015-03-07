@@ -1,5 +1,5 @@
 ---
-title: Flat Mobile UI/UX Concept
+title: Copy Kursk logo
 ---
 
-![Flat Mobile UI/UX Concept](assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+![Copy Kursk logo](assets/img/work/proj-4/copykursk-logo.jpg)

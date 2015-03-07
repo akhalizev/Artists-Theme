@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: Copy Kursk site
 ---
 
-![City In](assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Copy Kursk site](assets/img/work/proj-2/Copykurskpluses.jpg)
