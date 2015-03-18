@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
+  description: 'Web site developent in Europe and Russia.'
   rel-author: 'https://plus.google.com/u/0/+ahalizev/'
   rel-publisher: 'https://plus.google.com/u/0/+ahalizev/'
 
@@ -30,9 +30,7 @@ seo:
 
 blurb: >
   **Anatoly making people's life better**
-  Creating web sites for people, small businesses,
-  but he also puts effort into crafting knitwear for fun
-  and reading books to be better man.
+  Creating web sites for people, small businesses, he also puts effort into crafting knitwear for fun. Also making photos and reading books to be better man.
 
 
 skills:
@@ -49,14 +47,14 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Valan Trade s.r.o. logo, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Copy Kursk site, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: 500px Photos, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Copy Kursk logo, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+#- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+#- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+#- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+#- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 
@@ -68,12 +66,12 @@ clients:
 - {avatar: 'face-aaroni.jpg',
   name: 'Scott Summers',
   title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  quote: '<p><strong>While we all felt that Anatoly was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
   logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
   name: 'Hank McCoy',
   title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  quote: '<p><strong>Working with Anatoly was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
   logo: 'logo2.png'}
 - {avatar: 'face-jackiesaik.jpg',
   name: 'Stacy Lang',
@@ -91,11 +89,13 @@ clients:
 # Contact Section
   
 social:
-- {icon: 'twitter', link: 'http://twitter.com/ahalizev'}
-- {icon: 'instagram', link: 'https://instagram.com/ahalizev'}
-- {icon: 'behance', link: 'https://www.behance.net/akhalizev'}
-- {icon: 'facebook', link: 'https://www.facebook.com/ahalizev'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/akhalizev/'}
+- {icon: 'facebook-square', link: 'https://www.facebook.com/akhalizev'}
+- {icon: 'behance', link: 'https://www.behance.net/akhalizev'}
+- {icon: 'twitter-square', link: 'http://twitter.com/ahalizev'}
+- {icon: 'instagram', link: 'https://instagram.com/ahalizev'}
+- {icon: 'vk', link: 'https://www.vk.com/akhalizev'}
+- {icon: 'cool', link: 'https://www.about.me/akhalizev'}
 
   
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

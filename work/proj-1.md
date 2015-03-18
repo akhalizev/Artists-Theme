@@ -1,10 +1,10 @@
 ---
-title: Typo International Design Talks Stuff
+title: Valan Trade s.r.o. logo
 ---
 
 ![Typo International](assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+Valan Trade is my company founded in Czech Republic. After a lot of thinking I understand that I wish to create web sites and other things that will help other companies to grow.
 
 ![Typo International](assets/img/work/proj-1/img2.jpg)
 ![Typo International](assets/img/work/proj-1/img3.jpg)
