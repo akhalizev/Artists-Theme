@@ -109,7 +109,7 @@ social:
 - {icon: 'twitter-square', link: 'http://twitter.com/ahalizev'}
 - {icon: 'instagram', link: 'https://instagram.com/ahalizev'}
 - {icon: 'vk', link: 'https://www.vk.com/akhalizev'}
-- {icon: 'cool', link: 'https://www.about.me/akhalizev'}
+- {icon: 'cool', link: 'https://about.me/akhalizev'}
 
   
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
