@@ -10,6 +10,7 @@
   <meta name="description" content="{{ site.data.settings.seo.description }}">
   <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
   <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+  <meta name='yandex-verification' content='6ef9313ed0943cc6' />
 
   <title>{{ site.data.settings.title }}</title>
 
@@ -20,15 +21,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T83LXJ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-T83LXJ');</script>
-    <!-- End Google Tag Manager -->
+{% include gtm.html %}
 
 {% include header.html %}
 
@@ -47,6 +40,8 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="assets/js/functions.js"></script>
+
+{% include yandexmetrika.html %}
 
 </body>
 </html>
