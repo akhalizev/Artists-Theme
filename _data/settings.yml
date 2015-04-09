@@ -78,7 +78,7 @@ projects:
 
 clients:
 - {avatar: 'face-travis.png',
-  name: 'Travis Nielsen',
+  name: 'Travis Neilson',
   title: 'DevTips creator, youtuber, web designer',
   quote: '<p><strong>I know Anatoly through an online community that I run.</strong> We are focused on web site design and development. Anatoly has shown himself to an an extremely engaged and thoughtful member, he is a valuable contributor to our community.</p>',
   logo: 'devtipslogo.png'}
@@ -97,11 +97,11 @@ clients:
 #   title: 'VP of Helmut, Lorem Sorem LLC.',
 #   quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
 #   logo: 'logo4.png'}
-  
-  
+
+
 #-------------------------------
 # Contact Section
-  
+
 social:
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/akhalizev/'}
 - {icon: 'facebook-square', link: 'https://www.facebook.com/akhalizev'}
@@ -111,10 +111,5 @@ social:
 - {icon: 'vk', link: 'https://www.vk.com/akhalizev'}
 - {icon: 'cool', link: 'https://about.me/akhalizev'}
 
-  
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-  
-  
-  
-  
 
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
