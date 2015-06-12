@@ -12,6 +12,7 @@ menu:
 - {name: Work, url: '#work'}
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
+- {name: Русский, url: 'http://akhalizev.github.io/akhalizev-rus-blog/'}
 
 #-------------------------------
 # SEO Section
