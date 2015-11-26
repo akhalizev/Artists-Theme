@@ -6,7 +6,4 @@ title: Valan Trade s.r.o. logo
 
 Valan Trade is my company founded in Czech Republic. After a lot of thinking I understand that I wish to create web sites and other things that will help other companies to grow.
 
-![Typo International](assets/img/work/proj-1/img2.jpg)
-![Typo International](assets/img/work/proj-1/img3.jpg)
-![Typo International](assets/img/work/proj-1/img4.jpg)
-![Typo International](assets/img/work/proj-1/img5.jpg)
+
