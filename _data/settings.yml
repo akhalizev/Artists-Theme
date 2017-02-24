@@ -3,9 +3,9 @@
 
 title: Anatoly Khalizev
 description: Web Site Creator // Designer
-email: ahalizev@gmail.com
-phone_ru: Russia +79103113996
-phone_cz: Czech +420736236791
+email: akhalizev@gmail.com
+phone_usa: +1(763)406-2885
+
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -26,7 +26,7 @@ menu:
 url: http://akhalizev.github.io
 
 seo:
-  description: 'Web site development in Europe and Russia.'
+  description: 'Web site development.'
   rel-author: 'https://plus.google.com/u/0/+ahalizev/'
   rel-publisher: 'https://plus.google.com/u/0/+ahalizev/'
 
@@ -47,16 +47,16 @@ google-analytics-ua: UA-57396995-1
 
 blurb: >
   **Anatoly making people's life better**
-  I can create web site for you and your business (even if you need web store). Also I will promote it on search systems and social sites. If you need, I can design a logo.
+  I can create web site for you and your business. Also I will promote it on search systems and social sites. If you need, I can design a wireframe, UI, logo.
 
 skills:
 - {name: UX Design, value: '7'}
-- {name: Front End, value: '8'}
+- {name: Front End, value: '7'}
 - {name: Programming, value: '4'}
 - {name: Communication, value: '7'}
 - {name: Organization, value: '8'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
+- {name: Teaching, value: '8'}
 - {name: Planning, value: '8'}
 
 #-------------------------------
