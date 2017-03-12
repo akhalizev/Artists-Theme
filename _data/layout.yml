@@ -12,9 +12,9 @@ avatar: "face-2.jpg"
 
 accent: "#3b81a7"  #"#c99065"
 accent-light: "#3b81ff"
-bgcolor: "#e5eaee"
+bgcolor: "#abcee2"  #"#e5eaee"
 
-documentBackgroundColor: "#fff"
+documentBackgroundColor: "#d1e9e3" #"#eaeaea" #"#fff"
 headlineColor: "#333"
 textColor: "#666"
 linkColor: "#c99065"
