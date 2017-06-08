@@ -2,9 +2,9 @@
 # General Site Settings
 
 title: Anatoly Khalizev
-description: Web Site Creator // Designer
+description: Web Site Creator // Designer // Minneapolis
 email: akhalizev@gmail.com
-phone_usa: +1(763)406-2885
+phone_usa: +1(763)406-2885 (voicemail)
 
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -23,7 +23,7 @@ menu:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://akhalizev.github.io
+url: http://akhalizev.com
 
 seo:
   description: 'Web site development.'
@@ -46,18 +46,18 @@ google-analytics-ua: UA-57396995-1
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Anatoly making people's life better**
-  I can create web site for you and your business. Also I will promote it on search systems and social sites. If you need, I can design a wireframe, UI, logo.
+  **Anatoly making people's life better.**
+   Web site for you and your business. Different platforms: *Webflow*, *Squarespace*, *Wordpress*. Branding. SEO, SMM. Adjustable pricing.
 
 skills:
 - {name: UX Design, value: '7'}
 - {name: Front End, value: '7'}
-- {name: Programming, value: '4'}
+- {name: Webflow, value: '9'}
+- {name: Squarespace, value: '9'}
+- {name: Wordpress, value: '9'}
+- {name: Photo edit, value: '7'}
+- {name: Branding, value: '8'}
 - {name: Communication, value: '7'}
-- {name: Organization, value: '8'}
-- {name: Learning, value: '10'}
-- {name: Teaching, value: '8'}
-- {name: Planning, value: '8'}
 
 #-------------------------------
 # Work Section
@@ -111,7 +111,7 @@ social:
 - {icon: 'twitter-square', link: 'http://twitter.com/ahalizev'}
 - {icon: 'instagram', link: 'https://instagram.com/ahalizev'}
 - {icon: 'vk', link: 'https://www.vk.com/akhalizev'}
-- {icon: 'cool', link: 'https://about.me/akhalizev'}
+- {icon: 'cool', link: 'https://patience.webflow.io'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
