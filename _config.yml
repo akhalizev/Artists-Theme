@@ -12,6 +12,6 @@ sass:
   sass_dir: assets/css
   style: :compact
   
-gems:
+plugins:
   #- github-pages
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem

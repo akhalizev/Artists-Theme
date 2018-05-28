@@ -1,5 +1,6 @@
 ---
-title: Fresh It Up
+title: Daily Dose
 ---
 
-![Fresh It Up](assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+
+<iframe src="https://marvelapp.com/2ga1hg0?emb=1" width="550" height="1000" allowTransparency="true" frameborder="0"></iframe>

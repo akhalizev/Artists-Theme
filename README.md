@@ -50,6 +50,8 @@ _A big thank you to these creators for contributing sample projects for the "wor
 - [Micael Butial](https://www.behance.net/gallery/14751131/-TYPO-International-Design-Talks)
 - [Petras Nargėla](https://www.behance.net/gallery/16750837/Free-80-Crispy-Icons-in-PSD-AI-SVG-Webfont)
 - [Sergey Valiukh](https://www.behance.net/gallery/13745729/Timeline-Page)
+
+
 - [Ayoub Elred](https://www.behance.net/gallery/15812143/Flat-Mobile-UIUX-Concept-download)
 - [Anton Skvortsov](https://www.behance.net/gallery/16483395/City-IN-website-concept)
 - [Nick Zoutendijk](https://www.behance.net/gallery/13870569/Stripes-Co-Free-icon-Set)
